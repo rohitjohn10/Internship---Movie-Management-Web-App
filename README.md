@@ -30,7 +30,7 @@ Make sure you have these installed before trying to run the project locally:
 
 ```bash
 git clone https://github.com/rohitjohn10/Internship---Movie-Management-Web-App.git
-cd movie-management-app
+cd Internship---Movie-Management-Web-App
 
 ```
 
