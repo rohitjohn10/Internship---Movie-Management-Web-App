@@ -29,7 +29,7 @@ Make sure you have these installed before trying to run the project locally:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/movie-management-app.git
+git clone https://github.com/rohitjohn10/Internship---Movie-Management-Web-App.git
 cd movie-management-app
 
 ```
